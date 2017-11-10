@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ﻿ So there are two atoms walking down the street bump into each other, one says to the other,
+=======
+>>>>>>> 34c91a7c780bdd6c6cc8641e9036804a7ea57c91
 'I think I lost an electron!'
 The other one replied, 'Are you sure?'
 'Yes, I'm positive!'
